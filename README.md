@@ -18,7 +18,6 @@ Sarcasm Naive Bayes Model is a Python-based machine learning project that stores
 <img width="1536" height="1024" alt="image14" src="https://github.com/user-attachments/assets/ecbdad7e-3727-41af-9255-73a8563865af" />
 
 
-
 🧠 Naive Bayes Classification
 
 The model uses the Naive Bayes algorithm to calculate the likelihood of an input text belonging to the sarcasm or non-sarcasm class based on learned patterns from the training data.
